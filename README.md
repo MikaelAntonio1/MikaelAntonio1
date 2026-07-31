@@ -85,8 +85,5 @@ Me chamo Mikael Antônio, tenho 18 anos e sou de Pernambuco. Concluí o ensino m
 <br/>
 <br/>
 
-# Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://vercel.app)
 
 
