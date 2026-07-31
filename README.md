@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=B6BDF7&width=435&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Mikael Antônio, tenho 18 anos e sou natural de Pernambuco. Concluí o ensino médio, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFG. Sou apaixonado por tecnologia e compartilho meu conhecimento através no meu Linkedin "[Mikael Antônio](https://www.linkedin.com/in/mikael-ant%C3%B4nio-a15b533b3/)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/mikael_webdesigner/)".
 
