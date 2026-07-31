@@ -10,7 +10,6 @@ Me chamo Mikael Antônio, tenho 18 anos e sou de Pernambuco. Concluí o ensino m
 
 <h3 align="left">Conecte-se comigo!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:zggmikael@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mikael-ant%C3%B4nio-a15b533b3/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/mikael_webdesigner/)
 
