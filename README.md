@@ -4,7 +4,7 @@
 
 **`Desenvolvedor Web`**
 
-Me chamo Mikael Antônio, tenho 18 anos e sou natural de Pernambuco. Concluí o ensino médio, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFG. Sou apaixonado por tecnologia e compartilho meu conhecimento através no meu Linkedin "[Mikael Antônio](https://www.linkedin.com/in/mikael-ant%C3%B4nio-a15b533b3/)", sou desenvolvedor e faço projetos web e pretendo me aprofundar no back-end. Instagram "[Dev em Dev](https://www.instagram.com/mikael_webdesigner/)".
+Me chamo Mikael Antônio, tenho 18 anos e sou de Pernambuco. Concluí o ensino médio, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFG. Sou apaixonado por tecnologia e compartilho meu conhecimento através no meu Linkedin "[Mikael Antônio](https://www.linkedin.com/in/mikael-ant%C3%B4nio-a15b533b3/)", sou desenvolvedor e faço projetos web e futuramente, seguir carreira na área de Engenharia de Dados. Instagram "[mikael_webdesigner](https://www.instagram.com/mikael_webdesigner/)".
 
 ---
 
